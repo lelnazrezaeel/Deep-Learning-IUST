@@ -1,5 +1,5 @@
 # Deep-Learning-IUST
-My solutions to IUST's Deep Learning, Spring 2023, Dr. Davoodabadi.
+My solutions to IUST's Deep Learning, Fall 2022, Dr. Davoodabadi.
 
 ## <img width="20" height="20" src="https://img.icons8.com/wired/64/41b883/test-passed.png" alt="test-passed"/> Exams
 ### Quiz1
